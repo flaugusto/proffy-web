@@ -54,7 +54,7 @@ function TeacherForm() {
 
     function setScheduleItemValue(position:number, field: string, value: string) {
         const updatedScheduledItems = scheduleItems.map((scheduleItem, index) => {
-            if (index == position) {
+            if (index === position) {
                 return { ...scheduleItem, [field]: value };
             }
 
