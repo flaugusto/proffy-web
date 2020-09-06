@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/proffy-web/static/css/main.aca0a4f7.chunk.css",
-    "main.js": "/proffy-web/static/js/main.6261afa9.chunk.js",
-    "main.js.map": "/proffy-web/static/js/main.6261afa9.chunk.js.map",
+    "main.js": "/proffy-web/static/js/main.aea33e07.chunk.js",
+    "main.js.map": "/proffy-web/static/js/main.aea33e07.chunk.js.map",
     "runtime-main.js": "/proffy-web/static/js/runtime-main.88f1b6c0.js",
     "runtime-main.js.map": "/proffy-web/static/js/runtime-main.88f1b6c0.js.map",
     "static/js/2.4bf5e268.chunk.js": "/proffy-web/static/js/2.4bf5e268.chunk.js",
     "static/js/2.4bf5e268.chunk.js.map": "/proffy-web/static/js/2.4bf5e268.chunk.js.map",
     "index.html": "/proffy-web/index.html",
-    "precache-manifest.20fbb2c1808d2226981325f29f59dbfb.js": "/proffy-web/precache-manifest.20fbb2c1808d2226981325f29f59dbfb.js",
+    "precache-manifest.fb2e065aa0384fbf4330f153662bb1eb.js": "/proffy-web/precache-manifest.fb2e065aa0384fbf4330f153662bb1eb.js",
     "service-worker.js": "/proffy-web/service-worker.js",
     "static/css/main.aca0a4f7.chunk.css.map": "/proffy-web/static/css/main.aca0a4f7.chunk.css.map",
     "static/js/2.4bf5e268.chunk.js.LICENSE.txt": "/proffy-web/static/js/2.4bf5e268.chunk.js.LICENSE.txt",
@@ -25,6 +25,6 @@
     "static/js/runtime-main.88f1b6c0.js",
     "static/js/2.4bf5e268.chunk.js",
     "static/css/main.aca0a4f7.chunk.css",
-    "static/js/main.6261afa9.chunk.js"
+    "static/js/main.aea33e07.chunk.js"
   ]
 }
