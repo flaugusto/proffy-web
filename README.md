@@ -1,3 +1,3 @@
 # Proffy WEB!
 
-This is the Web responsive version of Proffy, an application done in the #NextLevelWeek from Rocketseat!
+This is the Web responsive version of Proffy, an application made at the #NextLevelWeek from Rocketseat!
